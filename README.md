@@ -1,0 +1,2 @@
+# Downgrade-within-Biscuit----End-of-Billing-Cycle
+Is there any way to add a feature to downgrade an account at the end of a current billing cycle.  Currently a downgrade is only allowed to take place immediately, but it would be nice for us on the admin side to have both options.  What happends now is that I will have to create a manual amendment to downgrade as of 8/1 and set a calendar reminder for me to change the edition in biscuit on 8/1.  Inline image 1
